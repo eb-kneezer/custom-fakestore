@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind&display=swap");
+
+:root {
+  --blue: #4578fc;
+  --grey: #494949;
+  --lightgrey: #f6f6f6;
+  --white: #ffffff;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.link {
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  padding: 15px 0px 15px 20px;
+  color: var(--grey);
+}
+
+a.link:hover,
+a.link.active {
+  color: var(--white);
+  background: var(--blue);
+}
+
+p {
+  color: var(--grey);
+}
+
+.blue {
+  color: var(--blue);
+}
+
+#routes {
+  padding-bottom: 50px;
+}
+
+body {
+  /* display: flex;
+  flex-direction: column; */
+  width: 100vw;
+  height: 100vh;
+  font-family: "Hind", sans-serif;
+}
+
+header {
+  height: 50px;
+  background: var(--blue);
+}
+
+footer {
+  height: 50px;
+  background: var(--grey);
+}
+
+main {
+  flex-grow: 1;
+  height: calc(100vh - 100px);
+  display: flex;
+}
+
+.navigation {
+  width: 20%;
+  min-width: 300px;
+  background: var(--white);
+  padding: 70px 0px 0px 70px;
+}
+
+.navlinks {
+  margin-top: 70px;
+  list-style: none;
+}
+
+/* .navlink {
+  padding: 15px 0px 15px 20px;
+} */
+
+/* a:hover {
+  color: var(--white);
+  background: var(--blue);
+} */
+
+.content {
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+
+.content-area {
+  min-height: 60%;
+  background: var(--lightgrey);
+  padding-top: 70px;
+  padding-left: 10%;
+}
+
+.content-body {
+  background: var(--white);
+  box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.14);
+  width: 60%;
+  /* min-height: 50%; */
+  margin-top: 70px;
+  padding: 40px 70px;
+}
+
+.content-body.hero {
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.code {
+  padding-left: 20px;
+  background: var(--grey);
+  color: var(--lightgrey);
+}
+
+.test {
+  margin-top: 30px;
+  padding: 10px 20px;
+  display: inline-block;
+  background: var(--blue);
+  color: var(--lightgrey);
+}
+
+.test:hover {
+  background: var(--grey);
+}
+
+.lists {
+  margin: 30px 0;
+  width: 60%;
+}
+
+.list {
+  margin: 10px 0;
+}
+
+.right {
+  float: right;
+}
