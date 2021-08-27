@@ -4,8 +4,6 @@ function getAllProducts(limit) {
   return limit ? allProducts.slice(0, limit) : allProducts;
 }
 
-// console.log(getAllProducts(4));
-
 function getProduct(id) {
   return allProducts.find(product => product.id === id);
 }
