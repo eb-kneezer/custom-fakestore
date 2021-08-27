@@ -140,6 +140,7 @@ img {
   padding-left: 20px;
   background: var(--grey);
   color: var(--lightgrey);
+  overflow-x: scroll;
 }
 
 .test {
