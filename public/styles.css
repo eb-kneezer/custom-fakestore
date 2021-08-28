@@ -24,6 +24,8 @@ a.link {
   height: 100%;
   padding: 15px 0px 15px 20px;
   color: var(--grey);
+  transition: color 0.3s ease;
+  transition: background 0.3s ease;
 }
 
 a.link:hover,
@@ -62,7 +64,6 @@ header {
 
 .sidebar-container {
   height: 0px;
-  transition: all 0.5s ease;
   position: absolute;
   top: 50px;
   width: 100%;
@@ -70,6 +71,7 @@ header {
   background: var(--white);
   overflow: hidden;
   display: none;
+  transition: height 0.5s ease;
 }
 
 .sidebar-container .navlinks {
@@ -77,9 +79,7 @@ header {
 }
 
 .sidebar-container.active {
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
+  height: 230px;
 }
 
 footer {
@@ -106,6 +106,7 @@ main {
 }
 
 .content {
+  scroll-behavior: smooth;
   flex-grow: 1;
   overflow-y: scroll;
 }
@@ -180,6 +181,7 @@ img {
 .nav-open:hover {
   background: var(--white);
   color: var(--blue);
+  transition: all 0.3s ease;
 }
 
 @media screen and (max-width: 1400px) {
