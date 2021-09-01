@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Temitope",
+      "last": "Oluwunmi"
+    },
+    "address": "59 Obiageli Street 72424 BukolaVille",
+    "email": "jsanusi@gmail.com",
+    "login": {
+      "username": "silverswan131",
+      "password": "firewall"
+    },
+    "dob": {
+      "date": "1994-07-20",
+      "age": 26
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQGRSlDdydsmNA/profile-displayphoto-shrink_800_800/0/1572429088154?e=1630540800&v=beta&t=UswjZT6b5QVEAigsxfaCj9zPYxtRXJ2PwKUr7APiWAU"
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Musa",
+      "last": "Motalo"
+    },
+    "address": "43 Saheed Street 82 867 OluwunmiVille",
+    "email": "ifunanya51@funmilayo.biz",
+    "login": {
+      "username": "onornat",
+      "password": "da51d9b3"
+    },
+    "dob": {
+      "date": "1974-07-20",
+      "age": 46
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQEFyr9Yf5rAjQ/profile-displayphoto-shrink_800_800/0/1583721588705?e=1630540800&v=beta&t=ZapPvMEJyYfE9wr2pfXHQH_1aBqcpiqp8VyiYzxk6v8"
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Sarah",
+      "last": "Aminu"
+    },
+    "address": "23 Maryjane Street 10 628 DamilareVille",
+    "email": "mohammed.adewale@yahoo.com",
+    "login": {
+      "username": "aminusrah",
+      "password": "0628dbfd"
+    },
+    "dob": {
+      "date": "2003-07-20",
+      "age": 18
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4E03AQGMosNuMstgSg/profile-displayphoto-shrink_800_800/0/1600246090449?e=1630540800&v=beta&t=CJRSGsrKCGbuWyR8Dys95y2WHYJeo6GHC1WfX79Z1oU"
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Chizoba",
+      "last": "Okonkwo"
+    },
+    "address": "41 Mutiat Street 99641 ToluwaniVille",
+    "email": "shalewa55@aigbiniode.org.ng",
+    "login": {
+      "username": "chizokwo",
+      "password": "56583eb0"
+    },
+    "dob": {
+      "date": "1970-07-20",
+      "age": 50
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQElJjEF9Ffn-w/profile-displayphoto-shrink_800_800/0/1580496229042?e=1630540800&v=beta&t=KBE1rqNd44zO7jJ2JH5DUk4ggmgPpEtIzQSG2orZRbw"
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Mohammed",
+      "last": "Onohinosen"
+    },
+    "address": "19 Sekinat Street 42135 EsseVille",
+    "email": "aminat54@mutiat.com",
+    "login": {
+      "username": "mohammsen",
+      "password": "98ba5459"
+    },
+    "dob": {
+      "date": "1987-07-20",
+      "age": 33
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4E03AQFCgg4AhhkUcw/profile-displayphoto-shrink_800_800/0/1596404104474?e=1630540800&v=beta&t=y-izBVO8WoxBmLc7lOoXPoFQOXHMv9c1h3NvIPtywWI"
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Omawunmi",
+      "last": "Uchechi"
+    },
+    "address": "90 Justina Street 85 622 BankoleVille",
+    "email": "egbadamosi@yahoo.com",
+    "login": {
+      "username": "omawunhi",
+      "password": "fbed1123"
+    },
+    "dob": {
+      "date": "1989-07-20",
+      "age": 31
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQHN1PEUn2zf5w/profile-displayphoto-shrink_800_800/0/1628339719121?e=1633564800&v=beta&t=4HRXHQHIWhlv_yCOFhjOfOu4Lx_pO7pp-pPFoLp8P_s"
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Tomiloba",
+      "last": "Sanusi"
+    },
+    "address": "76 Opeyemi Street 87 758 AyebatariVille",
+    "email": "yakubu.nwuzor@ayomide.co",
+    "login": {
+      "username": "tomilousi",
+      "password": "1c9435cb"
+    },
+    "dob": {
+      "date": "1980-07-20",
+      "age": 40
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQEFyr9Yf5rAjQ/profile-displayphoto-shrink_800_800/0/1583721588705?e=1630540800&v=beta&t=ZapPvMEJyYfE9wr2pfXHQH_1aBqcpiqp8VyiYzxk6v8"
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Adaugo",
+      "last": "Aminat"
+    },
+    "address": "34 Onohinosen Street 44 854 OmawunmiVille",
+    "email": "aderonke.aminat@yahoo.com",
+    "login": {
+      "username": "adaugonat",
+      "password": "c851ed1b"
+    },
+    "dob": {
+      "date": "1996-07-20",
+      "age": 24
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGKsl-U5li6_w/profile-displayphoto-shrink_800_800/0/1589293578956?e=1633564800&v=beta&t=a1mjoaZxlDfR5s7J8se6cFl5l04CRLnAddj6bTmelpg"
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Toke",
+      "last": "Odunayo"
+    },
+    "address": "26 Christian Street 35322 AminatVille",
+    "email": "abisola25@chidinma.org",
+    "login": {
+      "username": "tokeodayo",
+      "password": "1445cf67"
+    },
+    "dob": {
+      "date": "1968-07-20",
+      "age": 52
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQEdJA_tchTw-Q/profile-displayphoto-shrink_800_800/0/1583581499380?e=1630540800&v=beta&t=xTzcEOyOhQhmjqt1ZzKsA_iIL7Td7sqO2-aan0aKtpA"
+  },
+  {
+    "id": 10,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Adedayo",
+      "last": "Adegoke"
+    },
+    "address": "72 Emmanuel Street 61288 OmolaraVille",
+    "email": "onome.muinat@nwachukwu.net",
+    "login": {
+      "username": "adedayoke",
+      "password": "db9b5491"
+    },
+    "dob": {
+      "date": "1997-07-20",
+      "age": 23
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFFE8flp8eW8Q/profile-displayphoto-shrink_800_800/0/1610248285801?e=1630540800&v=beta&t=gF3eQ7pxafOo0C1k6PbvGmApkxRSiyaK_umD1C2Yz10"
+  },
+  {
+    "id": 11,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Banji",
+      "last": "Adegoke"
+    },
+    "address": "85 Kayode Street 42 475 ChinyereVille",
+    "email": "ogunbanwo.obioma@tella.co",
+    "login": {
+      "username": "banjike",
+      "password": "7c4510c4"
+    },
+    "dob": {
+      "date": "1967-07-20",
+      "age": 53
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQG7PELmNNFAkw/profile-displayphoto-shrink_800_800/0/1575384176272?e=1634774400&v=beta&t=OAXSKSUHw_GYphxM5PST5iZnXiFrN_x5UWnJFRhudoE"
+  },
+  {
+    "id": 12,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Emeka",
+      "last": "Aderonke"
+    },
+    "address": "35 Sulaimon Street 62592 JolayemiVille",
+    "email": "aminu39@hotmail.com",
+    "login": {
+      "username": "emeknke",
+      "password": "5c894fa2"
+    },
+    "dob": {
+      "date": "1985-07-20",
+      "age": 35
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGE_kXy_c0giw/profile-displayphoto-shrink_800_800/0/1600198044100?e=1634774400&v=beta&t=hY1b5Ak-heu0ukmEmqzmBpF-wAMOMT_l3W9jdD23Wfo"
+  },
+  {
+    "id": 13,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Lola",
+      "last": "Olawale"
+    },
+    "address": "81 Maryjane Street 91009 LoladeVille",
+    "email": "titilayo90@gmail.com",
+    "login": {
+      "username": "lolaolle",
+      "password": "7f435a21"
+    },
+    "dob": {
+      "date": "1995-07-20",
+      "age": 25
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFq5It931nPoQ/profile-displayphoto-shrink_800_800/0/1585561441858?e=1634169600&v=beta&t=Oh2u4KvwG3EstLc5saLATxNLR4KrLIREJEhkZIRmRKo"
+  },
+  {
+    "id": 14,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Zainab",
+      "last": "Maryjane"
+    },
+    "address": "53 Muinat Street 21549 ChinyereVille",
+    "email": "fatima.obiageli@oladeji.com",
+    "login": {
+      "username": "zainane",
+      "password": "f62087cb"
+    },
+    "dob": {
+      "date": "1975-07-20",
+      "age": 45
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQGnCxXD7vBSZA/profile-displayphoto-shrink_800_800/0/1623571415971?e=1631145600&v=beta&t=Awe_5rBPx5XDZMcxCDfAH0EIcBXxQFx0mbkbNCAoSdM"
+  },
+  {
+    "id": 15,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Simisola",
+      "last": "Leonard"
+    },
+    "address": "70 Mutiat Street 33117 AdaugoVille",
+    "email": "emeka32@justina.com.ng",
+    "login": {
+      "username": "simisord",
+      "password": "07618aa4"
+    },
+    "dob": {
+      "date": "1999-07-20",
+      "age": 21
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C5603AQGEktC2rIWSuQ/profile-displayphoto-shrink_800_800/0/1582367374394?e=1630540800&v=beta&t=-KuOpDYusNOWqKBF6zrZLPr-pPcKQZ3WTCExB-Q3Ors"
+  },
+  {
+    "id": 16,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Danjuma",
+      "last": "Aminat"
+    },
+    "address": "36 Clare Street 69 717 ChinyereVille",
+    "email": "tobiloba68@aligbe.biz",
+    "login": {
+      "username": "danjat",
+      "password": "0f2e99b1"
+    },
+    "dob": {
+      "date": "1984-07-20",
+      "age": 36
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQFvJF9ZkoMrWg/profile-displayphoto-shrink_800_800/0/1628971726038?e=1634169600&v=beta&t=1_n-Ir40Rlia1S6rWAtzX30ONX9SP9Q5LsFMRQ0jFQI"
+  },
+  {
+    "id": 17,
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "Augustina",
+      "last": "Makuachukwu"
+    },
+    "address": "87 Clare Street 42 406 TariVille",
+    "email": "mogbadunade.chizoba@gmail.com",
+    "login": {
+      "username": "auguwu",
+      "password": "6bd10c3f"
+    },
+    "dob": {
+      "date": "1990-07-20",
+      "age": 30
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQEXbG0ry_1I-A/profile-displayphoto-shrink_800_800/0/1562225914288?e=1630540800&v=beta&t=5s0LYIAJpBn3KTQNv9UanwqLTjcQulDQiTsHwB15ZLI"
+  },
+  {
+    "id": 18,
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Abimbola",
+      "last": "Akeem-omosanya"
+    },
+    "address": "55 Afolabi Street 69647 AkanniVille",
+    "email": "rasheedah73@gmail.com",
+    "login": {
+      "username": "abimboya",
+      "password": "18a98e96"
+    },
+    "dob": {
+      "date": "1983-07-20",
+      "age": 37
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFteOgWnbsqBg/profile-displayphoto-shrink_800_800/0/1625907956643?e=1634169600&v=beta&t=nRZ1VSXyBFMj6N0eVesA9pmlt7ay07Ta-XfvlIhOqrY"
+  },
+  {
+    "id": 19,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Rasheedah",
+      "last": "Muinat"
+    },
+    "address": "61 Olaoluwa Street 82 345 LolaVille",
+    "email": "kubra.latifat@elizabeth.com",
+    "login": {
+      "username": "rashnat",
+      "password": "8665bde3"
+    },
+    "dob": {
+      "date": "1967-07-20",
+      "age": 53
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4D03AQEATZldu2wLLA/profile-displayphoto-shrink_800_800/0/1532702512855?e=1630540800&v=beta&t=JGkfqLURpGX4Liv_ud0v5TEOPT-pE3aR12-ZApiHDaA"
+  },
+  {
+    "id": 20,
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "Jolayemi",
+      "last": "Akeem-omosanya"
+    },
+    "address": "27 Katherine Street 00 174 IkennaVille",
+    "email": "abiola.sekinat@onohinosen.net",
+    "login": {
+      "username": "jolaya",
+      "password": "18e7cda5"
+    },
+    "dob": {
+      "date": "1970-07-20",
+      "age": 50
+    },
+    "phone": "011-962-7516",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQHRQ3UFzyTk6Q/profile-displayphoto-shrink_800_800/0/1606080107166?e=1630540800&v=beta&t=EvoWujrWI4KpdJ2CnaAXcT1Vb5ss9BhjBdW368uXXqE"
+  }
+]
